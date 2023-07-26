@@ -1,4 +1,4 @@
-### Greetings, comrades 👋 I am Kseniia, and I am a web developer 👩‍💻
+### Greetings 👋 I am Kseniia, and I am a web developer 👩‍💻
 
 ## About me
 I'm Kseniia, a web developer with a mission to make the digital world a better place, one code snippet at a time. Originally from the charming city of Saint-Petersburg, Russia, I eventually discovered my second home in Japan, where I spent 6.5 amazing years before taking the plunge into the exciting world of web development in the US.

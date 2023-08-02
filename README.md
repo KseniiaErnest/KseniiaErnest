@@ -12,7 +12,7 @@ So, if you're in search of a dedicated web developer who can speak the languages
 
 📫 Feel free to reach me on: [email](kseniiaernest@gmail.com) | [LinkedIn](www.linkedin.com/in/kseniia-ernest) 
 
-## Lamguages & Tools
+## Languages & Tools
 I have knowledge in: JavaScript, HTML, CSS, Node.js, Express.js, React, MondoDB, API Rest
 
 
